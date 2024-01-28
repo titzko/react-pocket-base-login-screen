@@ -10,8 +10,6 @@
 
 3. Access the REST API at [http://0.0.0.0:8090/api/](http://0.0.0.0:8090/api/)
 
-4. To execute the PocketBase Docker container, run:
-    - exec the docker-container via <code>docker exec -it [containerId] ash </code>
 
 ## Usage
 
